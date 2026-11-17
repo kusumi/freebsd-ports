@@ -1,0 +1,8 @@
+/%%KMODDIR%%/exfat.ko
+sbin/newfs_exfat
+sbin/mount_exfat
+sbin/fsck_exfat
+share/man/man4/exfat.4.gz
+share/man/man8/newfs_exfat.8.gz
+share/man/man8/mount_exfat.8.gz
+share/man/man8/fsck_exfat.8.gz
